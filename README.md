@@ -1,2 +1,3 @@
-# fluffy-spork
+TUGAS INDIVIDU MKU CODING
 Muhammad Ariqoh Firjatulah  (G1A023033)
+1.
